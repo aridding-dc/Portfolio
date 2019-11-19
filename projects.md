@@ -1,5 +1,6 @@
 ---
 layout: page
+theme: tactile
 title: "Data Science Projects"
 ---
 
