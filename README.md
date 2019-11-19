@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](src) and ![Image](src)
 ```
 
-[Projects](https://aridding-dc.github.io/Portfolio/projects.md)
+[Projects](projects.md)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
