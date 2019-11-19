@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Data Science Projects"
-permalink: /Porfolio/projects
+permalink: /projects/
 ---
 
 ## Journey into Data Science
