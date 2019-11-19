@@ -23,8 +23,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Projects]('Porfolio/projects.md') and ![Image](src)
+[Link](src) and ![Image](src)
 ```
+
+[Projects](https://aridding-dc.github.io/Portfolio/projects)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
