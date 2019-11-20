@@ -1,7 +1,3 @@
----
-title: Data Science Portfolio 
----
-
 # My Data Science Journey
 
 Hello world, 
