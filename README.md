@@ -13,6 +13,20 @@ My name is Anthony and I love data! Here I am, looking silly presenting in a cla
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+
+```python
+
+import pandas as pd
+
+# insert your code here
+def function_1(param):
+   return blank
+
+```
+
+
+
+
 ```markdown
 Syntax highlighted code block
 
