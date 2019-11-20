@@ -6,8 +6,7 @@ My name is Anthony and I love data! Here I am, looking silly presenting in a cla
 
 
 #### Link
-(This text is visible)[https://jekyllrb.com/docs/front-matter/]
-
+[Data Science Projects](projects)
 
 
 ### Markdown
